@@ -1,5 +1,7 @@
 # BaRC: Backward Reachability Curriculum for Robotic Reinforcement Learning
 
+This repository contains the code for [BaRC: Backward Reachability Curriculum for Robotic Reinforcement Learning](https://arxiv.org/abs/1806.06161) by Boris Ivanovic, James Harrison, Apoorva Sharma, Mo Chen, and Marco Pavone
+
 ## Programming Environment ##
 ```
 git clone https://github.com/StanfordASL/BaRC.git
